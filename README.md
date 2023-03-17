@@ -1,6 +1,5 @@
 # Pong_Game
 # Verilog Implementation of Single Player Pong on a Nexys-3 Board
-# Title: Single-Player Pong Game Implementation in Verilog on a Nexys-3 Board
 
 Introduction and Requirement
 The purpose of this project is to design and implement a single-player Pong game on a Nexys-3 FPGA development board using Verilog hardware description language. Pong is a classic arcade game in which a player moves a paddle vertically to bounce a ball off walls and prevent it from leaving the screen. The game will be displayed on a VGA monitor, and the player will interact with the game using buttons on the development board.
